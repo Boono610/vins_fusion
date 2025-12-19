@@ -1,2 +1,3 @@
 使用以下命令进行编译
+
    catkin_make -DCMAKE_CXX_STANDARD=14 -DCMAKE_CXX_EXTENSIONS=OFF -DCMAKE_BUILD_TYPE=Release
